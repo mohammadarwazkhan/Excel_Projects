@@ -1,1 +1,1 @@
-# Excel_Projects
+i have made many projects on excel some of those are in this repository. In these projects first of all i completed data cleaning and then i used pivot chart to make summary and then i made dashboard. all the dashboard i made are dynamic. which is easy to understand by every person or stake holder.
